@@ -10,3 +10,5 @@ https://www.youtube.com/@sandhikagalihWPU
 https://www.youtube.com/@deaafrizal
 
 https://www.youtube.com/@ProgrammerZamanNow
+
+https://ugm2.tripod.com/a.htm

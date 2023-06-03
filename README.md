@@ -39,7 +39,7 @@ lagi dengan kemajuan zaman yang sekarang sudah era AI dan banyak template bagus 
 berbayar tiap tahunnya. Sekarang yang diperlukan adalah kesempatan belajar lebih dalam lagi
 dan bukan mencari uang semata. jadi, lebih mengutamakan menbantu perusahaan yang menjadi
 sponsor dengan cara membuat program2 kecil untuk memudahkan melakukan perkerjaan sehari hari 
-yang rutinitas sama dengan memanfaatkan fungsi makro dan mengotomatasikan pekerjaan menjadi 
+yang rutinitas sama dengan memanfaatkan fungsi makro dan mengotomasikan pekerjaan menjadi 
 lebih mudah, cepat dan akurat.
 Untuk membuat program yang besar diperlukan teamWork yang saling dapat berkeja sama satu
 dengan yang lainnya karena kemampuan seorang terbatas, tidak ada orang yang jago segalanya

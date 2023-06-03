@@ -46,7 +46,14 @@ yang lainnya karena kemampuan seorang terbatas, tidak ada orang yang jago segala
 File latihan dari https://www.w3schools.com/
 
 https://codepolitan.com/leaderboard/     
-MASTER I  2430 POINTS
+MASTER I  2453 POINTS
+
+https://codepolitan.com/c/PD8GOT2/
+
+https://codepolitan.com/c/PO5YRNO/
+
+https://codepolitan.com/c/7QXZDET/
+
 
 https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/
 

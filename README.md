@@ -4,7 +4,9 @@ Description_file_umum
 setelah keluar dari PT. Erela febrauri 1996 menekuni komputer belajar Hardware dan software
 sehingga bisa menginstall server sendiri waktu itu menggunakan Window NT-4 dan memperbaiki
 komputer dengan menginstall software window mulai windows 98, windows Xp, Window 7, windows 8
-windows 10. Selain belajar windows juga belajar Linux di LINUXINDO termasuk belajar Linux Red Hat 
+windows 10. Karena Hardsik sering rusak(bad sector) maka data jadi rusak atau hilang sebagian, kami gunakan software https://www.miray.de/products/sat.hdclone.html
+& https://www.easeus.com/ untuk mempercepat proses perbaikan komputer.
+Selain belajar windows juga belajar Linux di LINUXINDO termasuk belajar Linux Red Hat 
 kemudian install Samba sehingga waktu itu bisa buat file server sharing dengan window-7.
 Dahulu harus banyak belajar dari majalah2 komputer seperti :
 - Info Komputer

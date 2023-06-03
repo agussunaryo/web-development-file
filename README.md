@@ -48,6 +48,20 @@ File latihan dari https://www.w3schools.com/
 https://codepolitan.com/leaderboard/     
 MASTER I  2430 POINTS
 
+https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5932CAC-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5660227-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5569B2C-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5481988-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B547CEE6-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B54732AC-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5470879-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5381712-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5381454-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B537ED4A-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B51A557E-75A97A1914/
+
+
 https://codepen.io/
 
 https://www.youtube.com/@sandhikagalihWPU

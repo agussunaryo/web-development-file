@@ -26,12 +26,13 @@ sekarang mulai zaman memakai SQL, Oracle dll
 . https://www.dicoding.com/blog/perkembangan-pemrograman-web/
 . https://en.wikipedia.org/wiki/Clipper_(programming_language)
 . https://www.gramedia.com/best-seller/apa-itu-database/
-sekarang sudah berhenti bekerja masih terus belajar program web-develepment supaya tidak
-cepat pikun dan mudah2an dengan pertolongan Tuhan Yesus ada yang mau memberikan 
-perkerjaan freelance buat bantu perusahaan atau membantu membuat program memakai android.
-Sekarang lagi menekuni HTML, CSS, JAVASCRIPT, AUTOHOTKEY, DAN TERAKHIR BELAJAR C++ BUAT
-MEMBANTU ANAK belajar program JAVA & C++ DISEKOLAH.  
 
+sekarang sudah berhenti bekerja masih terus belajar program web-develepment supaya tidak
+cepat pikun dan mudah2an dengan pertolongan Tuhan Yesus ada tergerak hatinya dan mau memberikan 
+perkerjaan freelance buat bantu perusahaan sesuai dengan kebutuhannya.
+Sekarang lagi menekuni HTML, CSS, JAVASCRIPT, AUTOHOTKEY, DAN TERAKHIR BELAJAR C++ BUAT
+MEMBANTU ANAK belajar program JAVA & C++ DISEKOLAH. setelah mahir mau mendalami python dan
+android sehingga bisa buat program aplikasi.
 Website dibawah merupakan tempat untuk belajar mandiri sambil menunggu ikut mengambil
 kursus yang ternama kalau sudah mendapatkan sponsor dari perusahaan yang mau dibantu 
 sambil belajar mendalami ilmu. karena tanpa belajar, ilmu yang dahulu sudah tidak relevan

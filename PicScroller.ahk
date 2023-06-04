@@ -263,16 +263,15 @@ ScrollWin:
 Gui, Submit, Nohide
 ImageProps.ScrollWinEx := ScrollWinEx
 Return
+
 ScrollWinEx:
 Gui, Submit, Nohide
 ImageProps.ScrollWinEx := ScrollWinEx
 GuiControlGet, ScrollWinEx
-
 Return
 
 
 OpenPic:
-
 	if (isLoading)
 	imageType := 1
 	else

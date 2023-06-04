@@ -1016,4 +1016,8 @@ Return hICON
                TextOut (hdc, x + 22 * cxCaps + 40 * cxChar, y, szBuffer,                        wsprintf (szBuffer, TEXT ("%5d"),                             GetSystemMetrics (sysmetrics[i].iIndex))) ;
                SetTextAlign (hdc, TA_LEFT | TA_TOP) ;          }
           EndPaint (hwnd, &ps) ;          return 0 ;
-*/
+*/ 
+
+
+; https://www.autohotkey.com/boards/viewtopic.php?t=86418
+; 

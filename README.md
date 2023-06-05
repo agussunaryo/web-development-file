@@ -57,29 +57,29 @@ https://codepolitan.com/c/PO5YRNO/  * kelas NodeJS Unit Test
 https://codepolitan.com/c/7QXZDET/  * kelas NodeJS Unit Test
 
 
-https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/ * Fundamental Penetration Testing
 
-https://codingstudio.id/certificate/75B5656711-75B5932CAC-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5932CAC-75A97A1914/ * Fundamental Front-End Web
 
-https://codingstudio.id/certificate/75B5656711-75B5660227-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5660227-75A97A1914/ * Excel Advanced
 
-https://codingstudio.id/certificate/75B5656711-75B5569B2C-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5569B2C-75A97A1914/ * Excel Intermediate
 
-https://codingstudio.id/certificate/75B5656711-75B5481988-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5481988-75A97A1914/ * Fundamental Cyber Security
 
-https://codingstudio.id/certificate/75B5656711-75B547CEE6-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B547CEE6-75A97A1914/ * Ms PowerPoint dari Pemula Hingga Mahir
 
-https://codingstudio.id/certificate/75B5656711-75B54732AC-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B54732AC-75A97A1914/ * Fundamental Command Linux
 
-https://codingstudio.id/certificate/75B5656711-75B5470879-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5470879-75A97A1914/ * Ms Word dari Pemula Hingga Mahir
 
-https://codingstudio.id/certificate/75B5656711-75B5381712-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5381712-75A97A1914/ * Fundamental Python
 
-https://codingstudio.id/certificate/75B5656711-75B5381454-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B5381454-75A97A1914/ * Fundamental Java
 
-https://codingstudio.id/certificate/75B5656711-75B537ED4A-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B537ED4A-75A97A1914/ * Fundamental Algoritma
 
-https://codingstudio.id/certificate/75B5656711-75B51A557E-75A97A1914/
+https://codingstudio.id/certificate/75B5656711-75B51A557E-75A97A1914/ * Fundamental Jaringan Komputer
 
 
 https://codepen.io/

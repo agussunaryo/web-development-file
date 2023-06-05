@@ -84,7 +84,7 @@ https://codingstudio.id/certificate/75B5656711-75B51A557E-75A97A1914/ * Fundamen
 
 https://codepen.io/
 
-https://www.youtube.com/@sandhikagalihWPU
+https://www.youtube.com/@sandhikagalihWPU ;
 https://www.youtube.com/watch?v=LkR-9Z1sle8
 
 

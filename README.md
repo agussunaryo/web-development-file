@@ -67,11 +67,11 @@ https://codingstudio.id/certificate/75B5656711-75B5569B2C-75A97A1914/ * Excel In
 
 https://codingstudio.id/certificate/75B5656711-75B5481988-75A97A1914/ * Fundamental Cyber Security
 
-https://codingstudio.id/certificate/75B5656711-75B547CEE6-75A97A1914/ * Ms PowerPoint dari Pemula Hingga Mahir
+https://codingstudio.id/certificate/75B5656711-75B547CEE6-75A97A1914/ * Ms PowerPoint 
 
 https://codingstudio.id/certificate/75B5656711-75B54732AC-75A97A1914/ * Fundamental Command Linux
 
-https://codingstudio.id/certificate/75B5656711-75B5470879-75A97A1914/ * Ms Word dari Pemula Hingga Mahir
+https://codingstudio.id/certificate/75B5656711-75B5470879-75A97A1914/ * Ms Word 
 
 https://codingstudio.id/certificate/75B5656711-75B5381712-75A97A1914/ * Fundamental Python
 

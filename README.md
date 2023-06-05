@@ -50,7 +50,7 @@ File latihan dari https://www.w3schools.com/
 https://codepolitan.com/leaderboard/     
 MASTER I  2453 POINTS
 
-https://codepolitan.com/c/PD8GOT2/
+https://codepolitan.com/c/PD8GOT2/    kelas NodeJS ExpressJS
 
 https://codepolitan.com/c/PO5YRNO/
 

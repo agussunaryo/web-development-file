@@ -49,12 +49,12 @@ File latihan dari https://www.w3schools.com/
 
 https://codepolitan.com/leaderboard/     
 MASTER I  2453 POINTS
-. kelas Studi Kasus PHP Dasar: Aplikasi Todolist 
-https://codepolitan.com/c/PD8GOT2/    
-. kelas Studi Kasus PHP Dasar: Aplikasi Todolist 
-https://codepolitan.com/c/PO5YRNO/
 
-https://codepolitan.com/c/7QXZDET/
+https://codepolitan.com/c/PD8GOT2/  * kelas NodeJS Unit Test
+
+https://codepolitan.com/c/PO5YRNO/  * kelas NodeJS Unit Test
+
+https://codepolitan.com/c/7QXZDET/  * kelas NodeJS Unit Test
 
 
 https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/

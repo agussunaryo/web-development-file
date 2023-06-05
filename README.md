@@ -33,13 +33,13 @@ sekarang sudah berhenti bekerja masih terus belajar program web-develepment supa
 cepat pikun dan mudah2an dengan pertolongan Tuhan Yesus ada tergerak hatinya dan mau memberikan 
 perkerjaan freelance buat bantu perusahaan sesuai dengan kebutuhannya.
 Sekarang lagi menekuni HTML, CSS, JAVASCRIPT, AUTOHOTKEY, Dan terakhir Belajar C++ buat
-membantu Anak belajar program JAVA & C++ DiSekolah. 
+membantu Anak belajar program JAVA & C++ diSekolah. 
 Website dibawah merupakan tempat untuk belajar mandiri sambil menunggu ikut mengambil
 kursus yang ternama kalau sudah mendapatkan sponsor dari perusahaan yang mau dibantu 
 sambil belajar mendalami ilmu. Karena tanpa belajar, ilmu yang dahulu sudah tidak relevan 
 lagi dengan kemajuan zaman yang sekarang sudah era AI.
 Sekarang yang diperlukan adalah kesempatan belajar lebih dalam lagi dan bukan mencari uang semata. 
-jadi, lebih mengutamakan menbantu perusahaan yang menjadi sponsor dengan cara membuat program2 kecil 
+jadi, lebih mengutamakan membantu perusahaan yang menjadi sponsor dengan cara membuat program2 kecil 
 untuk memudahkan melakukan perkerjaan sehari hari yang rutinitas sama dengan memanfaatkan fungsi makro
 dan mengotomasikan pekerjaan menjadi lebih mudah, cepat dan akurat.
 Untuk membuat program yang besar diperlukan teamWork yang saling dapat berkeja sama satu dengan 

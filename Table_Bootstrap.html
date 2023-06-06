@@ -81,7 +81,23 @@ https://www.w3schools.com/bootstrap5/tryit.asp?filename=trybs_table_basic&stacke
   <div class="spinner-border text-dark"></div>
   <div class="spinner-border text-light"></div>
 
+<div class="container mt-3">
+  <h3>Tooltip Example</h3>
+  
+  <button type="button" class="btn btn-primary" data-bs-toggle="tooltip" title="Hooray!">
+    Hover over me!
+  </button>
 </div>
- 
+
+<script>
+// Initialize tooltips
+var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+  return new bootstrap.Tooltip(tooltipTriggerEl)
+})
+</script>  
+    
+    
+</div>
 </body>
 </html>

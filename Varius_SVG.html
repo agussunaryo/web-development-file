@@ -53,7 +53,42 @@
 </svg>
 <!-- https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_ellipse2 -->
 
+<svg width="400" height="110">
+  <rect width="300" height="100" style="fill:rgb(250,235,215);stroke-width:3;stroke:rgb(0,0,0)" />
+  <text x="70" y="55" fill="red" font-size="26" font-family="Verdana">I love SVG!</text>
+  Sorry, your browser does not support inline SVG.  
+</svg>
+<!--
+https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_rect
+https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_text
+-->
+
+<svg height="80" width="300">
+  <g fill="none" stroke="black">
+    <path stroke-width="2" stroke="blue" d="M5 20 l215 0" />
+    <path stroke-width="4" stroke="red" d="M5 40 l215 0" />
+    <path stroke-width="6" stroke="green" d="M5 60 l215 0" />
+  </g>
+  Sorry, your browser does not support inline SVG.
+</svg>
+<!--
+https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_stroke
+-->
+
+<svg height="150" width="400">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:rgb(255,255,0);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(255,0,0);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="200" cy="70" rx="85" ry="55" fill="url(#grad1)" />
+  <text fill="#ffffff" font-size="45" font-family="Verdana" x="150" y="86">SVG</text>
+  Sorry, your browser does not support inline SVG.
+</svg>
+<!--
+https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_linear3
+-->
 
 </body>
-</html>
-
+</html>   

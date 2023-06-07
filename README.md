@@ -66,6 +66,16 @@ https://codepolitan.com/c/ZIWXCK8/   *  PHP Logging
 
 https://codepolitan.com/c/C5KYPCW/   * Objek di PHP
 
+https://codepolitan.com/c/UYJCXBU/ *  JavaScript DOM
+
+https://codepolitan.com/c/VUXC2BH/ * JavaScript  Todolist
+
+https://codepolitan.com/c/GX4NVDB/ * JavaScript Async
+
+https://codepolitan.com/c/DZS6BH9/ * Node.js dan NPM
+
+https://codepolitan.com/c/EVLCBDJ/ * GIT Dasar
+
 
 https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/ * Fundamental Penetration Testing
 

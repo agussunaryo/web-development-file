@@ -42,10 +42,10 @@ Sekarang yang diperlukan adalah kesempatan belajar lebih dalam lagi dan bukan me
 jadi, lebih mengutamakan membantu perusahaan yang menjadi sponsor dengan cara membuat program2 kecil 
 untuk memudahkan melakukan perkerjaan sehari hari yang rutinitas sama dengan memanfaatkan fungsi makro
 dan mengotomasikan pekerjaan menjadi lebih mudah, cepat dan akurat.
-Untuk membuat program yang besar diperlukan teamWork yang saling dapat berkeja sama satu dengan 
-yang lainnya karena kemampuan seorang terbatas, tidak ada orang yang jago segalanya dalam program.
-
-File latihan dari https://www.w3schools.com/
+Terima kasih kepada semua pihak yang telah berjasa dalam belajar membuat program dan memberi pengetahuan
+melalui video diyoutube channelnya dan tempat2 kursus yang telah memberikan pelajaran teori, praktek dan
+sertifikatnya.
+website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek secara online !!!
 
 https://codepolitan.com/leaderboard/     
 MASTER I  2453 POINTS
@@ -55,7 +55,6 @@ https://codepolitan.com/c/PD8GOT2/  * kelas NodeJS Unit Test
 https://codepolitan.com/c/PO5YRNO/  * PHP Dasar: Aplikasi Todolist
 
 https://codepolitan.com/c/7QXZDET/  * kelas NodeJS Unit Test
-
 
 https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/ * Fundamental Penetration Testing
 
@@ -93,3 +92,6 @@ https://www.youtube.com/@deaafrizal
 https://www.youtube.com/@ProgrammerZamanNow
 
 https://ugm2.tripod.com/a.htm  4414/F
+
+Tidak lupa terima kasih sebesar2nya buat Github tempat untuk simpan hasil belajar dan belajar
+program dari pihak lain yang ada dalam Github. !!!

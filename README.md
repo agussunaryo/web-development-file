@@ -95,3 +95,5 @@ https://ugm2.tripod.com/a.htm  4414/F
 
 Tidak lupa terima kasih sebesar2nya buat Github tempat untuk simpan hasil belajar dan belajar
 program dari pihak lain yang ada dalam Github. !!!
+
+God bless you abundantly,

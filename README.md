@@ -97,3 +97,4 @@ Tidak lupa terima kasih sebesar2nya buat Github tempat untuk simpan hasil belaja
 program dari pihak lain yang ada dalam Github. !!!
 
 God bless you abundantly,
+https://www.bible.com/id/bible/306/NUM.6.24-26.TB

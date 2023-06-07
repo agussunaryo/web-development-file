@@ -3,44 +3,53 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-#myDIV {
-   width: 100%;
-   padding: 50px 0;
-   text-align: center;
-/* background-color: lightblue; */
-   background-color: red; /* For browsers that do not support gradients */
-   background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
 }
-  margin-top: 20px;
+
+.dark-mode {
+  background-color: black;
+  color: white;
 }
+#grad1 {
+  height: 55px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
 </style>
 </head>
 <body>
 
-<p>Click the "Try it" button to toggle between hiding and showing the DIV element:</p>
+<h2>Toggle Dark/Light Mode</h2>
+<p>Click the button to toggle between dark and light mode for this page.</p>
 
-<button onclick="myFunction()">Try it</button>
+<button onclick="myFunction()">Toggle dark mode</button>
 
-<div id="myDIV" style="color:white;font-size:36px;font-weight:bold">
-This is my DIV element.
+<div id="grad1" style="text-align:center;margin:auto;color:#888888;font-size:40px;font-weight:bold">
+Rainbow Background
 </div>
 
-<p><b>Note:</b> The element will not take up any space when the display property set to "none".</p>
+<br>
+<button type="button" onclick="MyTopFunction()">Set top margin</button>
 
 <script>
+function MyTopFunction() {
+  document.getElementById("grad1").style.marginTop = "50px";
+}
+
 function myFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
+   var element = document.body;
+   element.classList.toggle("dark-mode");
 }
 </script>
 <!--
-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_toggle_hide_show
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_toggle_dark_mode
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_margintop
 https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_rainbow
 -->
-
 </body>
 </html>

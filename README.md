@@ -56,15 +56,15 @@ https://codepolitan.com/c/PO5YRNO/  * PHP Dasar: Aplikasi Todolist
 
 https://codepolitan.com/c/7QXZDET/  * kelas NodeJS Unit Test
 
-https://codepolitan.com/c/ALQTVEW/
+https://codepolitan.com/c/ALQTVEW/   * PHP OOP
 
-https://codepolitan.com/c/4REZAVE/
+https://codepolitan.com/c/4REZAVE/   * PHP Unit Test
 
-https://codepolitan.com/c/OXVR79P/
+https://codepolitan.com/c/OXVR79P/   *  PHP MVC
 
-https://codepolitan.com/c/ZIWXCK8/
+https://codepolitan.com/c/ZIWXCK8/   *  PHP Logging
 
-https://codepolitan.com/c/C5KYPCW/
+https://codepolitan.com/c/C5KYPCW/   * Objek di PHP
 
 
 https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/ * Fundamental Penetration Testing

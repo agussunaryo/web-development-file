@@ -29,9 +29,8 @@ sekarang mulai zaman memakai SQL, Oracle dll
 . https://en.wikipedia.org/wiki/Clipper_(programming_language)
 . https://www.gramedia.com/best-seller/apa-itu-database/
 
-sekarang sudah berhenti bekerja masih terus belajar program web-develepment supaya tidak
-cepat pikun dan mudah2an dengan pertolongan Tuhan Yesus ada tergerak hatinya dan mau memberikan 
-perkerjaan freelance buat bantu perusahaan sesuai dengan kebutuhannya.
+sekarang sudah berhenti bekerja karena sudah lanjut usia, tetapi  masih terus belajar program web-develepment
+supaya tidak cepat pikun dan memang hobbynya belajar dan mudah2an dengan pertolongan Tuhan Yesus ada tergerak hatinya dan mau memberikan perkerjaan freelance buat bantu perusahaan sesuai dengan kebutuhannya.
 Sekarang lagi menekuni HTML, CSS, JAVASCRIPT, AUTOHOTKEY, Dan terakhir Belajar C++ buat
 membantu Anak belajar program JAVA & C++ diSekolah. 
 Website dibawah merupakan tempat untuk belajar mandiri sambil menunggu ikut mengambil
@@ -48,7 +47,7 @@ sertifikatnya.
 website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek secara online !!!
 
 https://codepolitan.com/leaderboard/     
-MASTER I  2471 POINTS
+MASTER I  2502 POINTS
 
 https://codepolitan.com/c/PD8GOT2/  * kelas NodeJS Unit Test
 

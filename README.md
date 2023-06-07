@@ -48,13 +48,24 @@ sertifikatnya.
 website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek secara online !!!
 
 https://codepolitan.com/leaderboard/     
-MASTER I  2453 POINTS
+MASTER I  2471 POINTS
 
 https://codepolitan.com/c/PD8GOT2/  * kelas NodeJS Unit Test
 
 https://codepolitan.com/c/PO5YRNO/  * PHP Dasar: Aplikasi Todolist
 
 https://codepolitan.com/c/7QXZDET/  * kelas NodeJS Unit Test
+
+https://codepolitan.com/c/ALQTVEW/
+
+https://codepolitan.com/c/4REZAVE/
+
+https://codepolitan.com/c/OXVR79P/
+
+https://codepolitan.com/c/ZIWXCK8/
+
+https://codepolitan.com/c/C5KYPCW/
+
 
 https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/ * Fundamental Penetration Testing
 

@@ -117,4 +117,5 @@ Tidak lupa terima kasih sebesar2nya buat Github tempat untuk simpan hasil belaja
 program dari pihak lain yang ada dalam Github. !!!
 
 God bless you abundantly,
-https://www.bible.com/id/bible/306/NUM.6.24-26.TB
+https://www.bible.com/id/bible/306/NUM.6.24-26.TB ;
+https://christunite.com/index.php/bible/bible-index-chinese-to-english-with-han-yu-pin-yin/34-2015-08-26-01-46-13/558-numbers6-24-26chinese

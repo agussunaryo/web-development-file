@@ -2,6 +2,7 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
 <style>
 body {
   padding: 25px;
@@ -14,42 +15,56 @@ body {
   background-color: black;
   color: white;
 }
-#grad1 {
+#myDIV {
   height: 55px;
   background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
 }
 
 </style>
-</head>
 <body>
 
 <h2>Toggle Dark/Light Mode</h2>
 <p>Click the button to toggle between dark and light mode for this page.</p>
 
-<button onclick="myFunction()">Toggle dark mode</button>
+<button onclick="myDarkFunction()">Toggle dark mode</button>
 
-<div id="grad1" style="text-align:center;margin:auto;color:#888888;font-size:40px;font-weight:bold">
-Rainbow Background
-</div>
+
+<p>Click the button to swap the text of the DIV element:</p>
+
+<p><button onclick="myFunction()">Click Me</button></p>
+<!--
+<div id="myDIV">Hello</div>
+-->
+
+<div id="myDIV" style="text-align:center;margin:auto;color:#eaeaea;font-size:40px;font-weight:bold">Rainbow Background</div>
 
 <br>
 <button type="button" onclick="MyTopFunction()">Set top margin</button>
 
+
 <script>
-function MyTopFunction() {
-  document.getElementById("grad1").style.marginTop = "50px";
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.innerHTML === "Rainbow Background") {
+    x.innerHTML = "Swapped text!";
+  } else {
+    x.innerHTML = "Rainbow Background";
+  }
 }
 
-function myFunction() {
+function MyTopFunction() {
+  document.getElementById("myDIV").style.marginTop = "50px";
+}
+
+
+function myDarkFunction() {
    var element = document.body;
    element.classList.toggle("dark-mode");
 }
 </script>
-<!--
-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_toggle_dark_mode
-https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_margintop
-https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear_rainbow
--->
+
+</script>
+
 </body>
 </html>

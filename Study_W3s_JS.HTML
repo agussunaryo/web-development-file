@@ -21,6 +21,57 @@ body {
   background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
 }
 
+.my_DIV {
+  height: 55px;
+  padding: 30px 22px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+
+.button {
+/* background-color: #4CAF50; */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+/* declaration for our first CSS class */
+.blue-text {
+    font-size: 20px;
+	color: yellow;
+/*  background-color: #3eb5b1; */
+    background-color: #0093E9;  
+    background-image: linear-gradient(90deg, #00cae9 20%, #2558b0 80%); 
+    font-weight: bold;
+    border: 3px solid blue; 
+    padding: 15px; 
+    border-radius: 25px; 
+}
+
+/* declaration for our second CSS class */
+.green-text {
+    font-size: 20px;
+	color: yellow;
+    background-color: green;  
+/*  background-image: linear-gradient(90deg, #00cae9 20%, #2558b0 80%);  */
+    font-weight: bold;
+    border: 3px solid blue; 
+    padding: 15px; 
+    border-radius: 25px; 
+}
+
 </style>
 <body>
 
@@ -39,11 +90,25 @@ body {
 
 <div id="myDIV" style="text-align:center;margin:auto;color:#eaeaea;font-size:40px;font-weight:bold">Rainbow Background</div>
 
+
+<p>Click the "Try it" button to remove the "mystyle" class from the DIV element:</p>
+
+<button type="button" class="button green-text" onclick="myDelClassFunction()">Try it</button>
+
+<div id="myNoDIV" class="my_DIV">
+This is a DIV element.
+</div>
+
 <br>
-<button type="button" onclick="MyTopFunction()">Set top margin</button>
+<button type="button" class="button blue-text" onclick="MyTopFunction()">Set top margin</button>
 
 
 <script>
+function myDelClassFunction() {
+  var element = document.getElementById("myNoDIV");
+  element.classList.remove("my_DIV");
+}
+
 function myFunction() {
   var x = document.getElementById("myDIV");
   if (x.innerHTML === "Rainbow Background") {

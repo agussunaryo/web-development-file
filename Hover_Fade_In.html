@@ -28,15 +28,45 @@ p {
     font-weight: bold;
     background-color: #f41e50
 }
+
+span.a {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;  
+  background-color: lightgreen; 
+}
+
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+}
+
+span.c {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: cyan; 
+}
+
 </style>
 </head>
 <body>
+<div class="w3-container">
 
 <h2>Fading Buttons - "Fade in Effect"</h2>
 
 <button class="btn">Hover Over Me</button>
-
+<!--
 <div class="w3-container">
+-->
   <h2>Border Colors</h2>
 
   <div class="w3-panel w3-border w3-pale-red w3-border-red">
@@ -56,19 +86,34 @@ p {
   </div>
 <!-- </div> -->
 
-<p>You can use the mark tag to <mark>highlight</mark> text.</p>
-<p><del>This line of text is meant to be treated as deleted text.</del></p>
-<p><s>This line of text is meant to be treated as no longer accurate.</s></p>
-<p><ins>This line of text is meant to be treated as an addition to the document.</ins></p>
-<p><u>This line of text will render as underlined</u></p>
-<p><small>This line of text is meant to be treated as fine print.</small></p>
-<p><strong>This line rendered as bold text.</strong></p>
-<p><em>This line rendered as italicized text.</em></p>
+	<p>You can use the mark tag to <mark>highlight</mark> text.</p>
+	<p><del>This line of text is meant to be treated as deleted text.</del></p>
+	<p><s>This line of text is meant to be treated as no longer accurate.</s></p>
+	<p><ins>This line of text is meant to be treated as an addition to the document.</ins></p>
+	<p><u>This line of text will render as underlined</u></p>
+	<p><small>This line of text is meant to be treated as fine print.</small></p>
+	<p><strong>This line rendered as bold text.</strong></p>
+	<p><em>This line rendered as italicized text.</em></p>
+<!--
+</div>
+-->
+<h1>The display Property</h1>
 
+<h2>display: inline</h2>
+<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. <span class="a">Aliquam</span> <span class="a">venenatis</span> gravida nisl sit amet facilisis. Nullam cursus fermentum velit sed laoreet. </div>
+
+<h2>display: inline-block</h2>
+<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. <span class="b">Aliquam</span> <span class="b">venenatis</span> gravida nisl sit amet facilisis. Nullam cursus fermentum velit sed laoreet. </div>
+
+<h2>display: block</h2>
+<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. <span class="c">Aliquam</span> <span class="c">venenatis</span> gravida nisl sit amet facilisis. Nullam cursus fermentum velit sed laoreet. </div>
 </div>
 
 <!--
+https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1
+
 https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_borders_colors
 -->
+
 </body>
 </html>

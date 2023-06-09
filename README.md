@@ -106,12 +106,19 @@ https://codepen.io/ , https://codepen.io/carterfromsl/pen/QWZXbqB
 https://www.youtube.com/@sandhikagalihWPU ;
 https://www.youtube.com/watch?v=LkR-9Z1sle8
 
-
 https://www.youtube.com/@deaafrizal
 
 https://www.youtube.com/@ProgrammerZamanNow
 
+https://www.geeksforgeeks.org
+
+https://stackoverflow.com
+
+https://github.com
+
 https://ugm2.tripod.com/a.htm  4414/F
+
+https://www.mdbg.net/chinese/dictionary
 
 Tidak lupa terima kasih sebesar2nya buat Github tempat untuk simpan hasil belajar dan belajar
 program dari pihak lain yang ada dalam Github. !!!

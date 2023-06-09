@@ -140,15 +140,17 @@ body {
 }
 
 
-</style>
 </STYLE>
 <body>
 
+<!--
+=================================================================================
+-->
+    
 <script>
-var cube = document.getElementById("cube");
-var cubeWrap = document.getElementById("cube-wrap");
-var isDragging = false;
-
+    var cube = document.getElementById("cube");
+    var cubeWrap = document.getElementById("cube-wrap");
+    var isDragging = false;
 var currentX, currentY, initialX, initialY;
 var xOffset = 0,
 yOffset = 0;
@@ -196,10 +198,13 @@ function drag(e) {
 function setTranslate(xPos, yPos, el) {
   el.style.transform = "rotateX(" + (-yPos) + "deg) rotateY(" + (-xPos) + "deg)"; 
 }
-
 </script>
 
-
+<!--
+=================================================================================
+-->
+   
+    
 <div class="container mt-3">
   <h2 style="color:red;font-weight:bold">Simple Collapsible</h2>
   <p>Click on the button to toggle between showing and hiding content.</p>

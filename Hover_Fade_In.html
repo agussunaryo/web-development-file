@@ -56,10 +56,25 @@ span.c {
   background-color: cyan; 
 }
 
-
 h1:hover, a:hover {
 /* background-color: yellow; */
    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+input[type=checkbox] {
+  accent-color: red;
+}
+
+input[type=radio] {
+  accent-color: green;
+}
+
+input[type=range] {
+  accent-color: rgb(0, 0, 255);
+}
+
+progress {
+  accent-color: hsl(39, 100%, 50%);
 }
 	
 </style>
@@ -124,7 +139,32 @@ h1:hover, a:hover {
 <a href="http://www.wikipedia.org" target="_top">wikipedia.org</a>
 <p><b>Note:</b> Mouse over paragraphs, headers, and links to see what is getting a style.</p>
 <p><b>Note:</b> For :hover to work for other than links in IE, a DOCTYPE must be declared.</p>
+
+
+<h1>The accent-color Property</h1>
+<h3>Accent color for checkboxes:</h3>
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" checked>
+<label for="vehicle1"> I have a bike</label><br>
+<input type="checkbox" id="vehicle2" name="vehicle2" value="Car" checked>
+<label for="vehicle2"> I have a car</label><br><br>
+
+<h3>Accent color for radiobuttons:</h3>
+<input type="radio" id="html" name="fav_language" value="HTML">
+<label for="html">HTML</label><br>
+<input type="radio" id="css" name="fav_language" value="CSS" checked>
+<label for="css">CSS</label><br>
+
+<h3>Accent color for a range field:</h3>
+<label for="vol">Volume:</label>
+<input type="range" id="vol" name="vol" min="0" max="50">
+
+<h3>Accent color for a progress element:</h3>
+<label for="file">Downloading progress:</label>
+<progress id="file" value="72" max="100"> 72% </progress>
+
 <!--
+https://www.w3schools.com/cssref/tryit.php?filename=trycss4_accent-color
+
 https://www.w3schools.com/cssref/tryit.php?filename=trycss_sel_hover_more
 
 https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1

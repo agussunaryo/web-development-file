@@ -203,7 +203,30 @@ function setTranslate(xPos, yPos, el) {
 <!--
 =================================================================================
 -->
-   
+
+<div class="container mt-3">
+  <p>Click the button to see if the browser is online.</p>
+<!--
+  <button type="button" class="btn btn-danger">Danger</button>
+-->
+  <button type="button" class="btn btn-danger" onclick="myxxFunction()">Try it</button>
+  <br><br>
+
+<p id="demo"></p>
+
+<script>
+function myxxFunction() {
+  var x = "Is the browser online? " + navigator.onLine;
+  document.getElementById("demo").innerHTML = x;
+}
+</script>
+
+</div>
+<!--
+https://www.w3schools.com/bootstrap5/tryit.asp?filename=trybs_button_styles&stacked=h
+-->
+
+
     
 <div class="container mt-3">
   <h2 style="color:red;font-weight:bold">Simple Collapsible</h2>
@@ -284,28 +307,6 @@ Draggable 3D Layered Cube (Vanilla CSS/JS)
 Carter Lovelace 
 -->
 
-    
-<div class="container mt-3">
-  <p>Click the button to see if the browser is online.</p>
-<!--
-  <button type="button" class="btn btn-danger">Danger</button>
--->
-  <button type="button" class="btn btn-danger" onclick="myFunction()">Try it</button>
-  <br><br>
-
-<p id="demo"></p>
-
-<script>
-function myFunction() {
-  var x = "Is the browser online? " + navigator.onLine;
-  document.getElementById("demo").innerHTML = x;
-}
-</script>
-
-</div>
-<!--
-https://www.w3schools.com/bootstrap5/tryit.asp?filename=trybs_button_styles&stacked=h
--->
-    
+   
 </body>
 </html>

@@ -115,7 +115,21 @@ https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_linear3
 <!-- 
 https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_polygon3
 -->
-   
+     
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+   <pattern id="p" width="100" height="100" patternUnits="userSpaceOnUse">
+      <circle fill="blue" cx="50" cy="50" r="25" />
+      <circle r="25" /><!-- top left -->
+      <circle cx="100" r="25" /><!-- top right -->
+      <circle cy="100" r="25" /><!-- bottom left -->
+      <circle cx="100" cy="100" r="25" /><!-- bottom right -->
+   </pattern>
+   <rect fill="url(#p)" width="100%" height="100%"/>
+</svg>
+<!--
+https://www.svgbackgrounds.com/tag/basics/#alternate
+-->
+
    
 </body>
 </html>   

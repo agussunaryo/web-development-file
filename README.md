@@ -110,7 +110,7 @@ https://www.youtube.com/@deaafrizal
 
 https://www.youtube.com/@ProgrammerZamanNow
 
-https://www.geeksforgeeks.org; https://www.geeksforgeeks.org/how-to-add-icon-logo-in-title-bar-using-html/
+https://www.geeksforgeeks.org; https://www.w3schools.com/css/tryit.asp?filename=trycss3_animation1
 
 https://stackoverflow.com
 

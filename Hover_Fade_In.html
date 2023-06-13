@@ -76,7 +76,43 @@ input[type=range] {
 progress {
   accent-color: hsl(39, 100%, 50%);
 }
-	
+
+.container {
+/* background-color: red; */
+   background-color: #FA8BFF;
+   background-image: url("https://www.w3schools.com/cssref/paper.gif");
+/* background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%); */
+   padding: 15px;
+}
+
+.container img {
+  mix-blend-mode: darken;
+}
+
+.container:hover {
+   opacity: 0.8; 
+   background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%); 
+}
+
+
+#myDIV {
+   width: 50%;
+/* background-color: lightblue; */
+   overflow: auto;
+/* border: 1px solid black; */
+   padding: 20px;
+   border: 8px solid #4CAF50;
+   border-block-width: 12px;
+   background-color: lightgreen;
+   border-block-style: solid;
+   border-block-color: pink lightblue;
+   animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {min-width: 800px;}
+}
+
 </style>
 </head>
 <body>
@@ -130,7 +166,7 @@ progress {
 <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum consequat scelerisque elit sit amet consequat. Aliquam erat volutpat. <span class="c">Aliquam</span> <span class="c">venenatis</span> gravida nisl sit amet facilisis. Nullam cursus fermentum velit sed laoreet. </div>
 </div>
 
-	
+<div class="w3-container">	
 <h1>Welcome to My Homepage</h1>
 
 <p>Here are my favorite websites:</p>
@@ -161,8 +197,31 @@ progress {
 <h3>Accent color for a progress element:</h3>
 <label for="file">Downloading progress:</label>
 <progress id="file" value="72" max="100"> 72% </progress>
+</div>
+
+<div class="w3-container">
+<h1>Animation of min-width</h1>
+
+<p>Change the min-width from "none" to 800px, and back to "none":<p>
+<p><strong>Note:</strong> The min-width property overrides the width property.</p>
+
+<div id="myDIV">
+  <p>This DIV element has a pre-defined width: 50%.</p>
+  <p>An animation will gradually change the min-width to 800 pixels.</p>
+</div>
+
+
+<h2>The mix-blend-mode Property</h2>
+<p>The mix-blend-mode property specifies how an element's content should blend with its background:</p>
+
+<div class="container">
+   <img src="pineapple.jpg" alt="Pineapple" width="300" height="300">
+</div>
+</div>
 
 <!--
+https://www.w3schools.com/cssref/tryit.php?filename=trycss_mix-blend-mode
+
 https://www.w3schools.com/cssref/tryit.php?filename=trycss4_accent-color
 
 https://www.w3schools.com/cssref/tryit.php?filename=trycss_sel_hover_more

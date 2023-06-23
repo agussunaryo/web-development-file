@@ -100,6 +100,7 @@ https://codingstudio.id/certificate/75B5656711-75B537ED4A-75A97A1914/ * Fundamen
 
 https://codingstudio.id/certificate/75B5656711-75B51A557E-75A97A1914/ * Fundamental Jaringan Komputer
 
+https://www.udemy.com/certificate/UC-d391ce89-6e9c-455a-9e5a-a7e18bfca50f/ * 
 
 https://codepen.io/ , https://codepen.io/carterfromsl/pen/QWZXbqB
 

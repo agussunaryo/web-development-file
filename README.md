@@ -46,8 +46,9 @@ melalui video diyoutube channelnya dan tempat2 kursus yang telah memberikan pela
 sertifikatnya.
 website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek secara online !!!
 
-https://codepolitan.com/leaderboard/     
-MASTER I  2502 POINTS
+https://codepolitan.com/leaderboard/ 
+VETERAN I 3619 POINTS   28/07/2023 09:59AM
+MASTER I  2502 POINTS (nilai sebelumnya)
 
 https://codepolitan.com/c/PD8GOT2/  * kelas NodeJS Unit Test
 

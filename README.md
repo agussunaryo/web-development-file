@@ -47,9 +47,9 @@ sertifikatnya.
 website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek secara online !!!
 
 https://codepolitan.com/leaderboard/ 
-Terima kasih sudah diblok tidak boleh lihat pertanyaan dan jawaban gara2 protes penilian harus dilakukan secara
-jujur, tranparant, dan dapat dibuktikan kebenarannya dengan bukti tertulis.
+***********************************
 VETERAN I 3619 POINTS   **28/07/2023 09:59AM**
+**********************************************
 MASTER I  2502 POINTS (nilai sebelumnya)
 
 https://codepolitan.com/c/PD8GOT2/  * kelas NodeJS Unit Test

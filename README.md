@@ -49,59 +49,11 @@ website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek 
 https://codepolitan.com/leaderboard/ 
 ***********************************
 VETERAN I 3619 POINTS   **28/07/2023 09:59AM**
+LEGEND  I 5863 POINTS   **08/08/2024 16:53PM**
 **********************************************
-MASTER I  2502 POINTS (nilai sebelumnya)
-
-https://codepolitan.com/c/PD8GOT2/  * kelas NodeJS Unit Test
-
-https://codepolitan.com/c/PO5YRNO/  * PHP Dasar: Aplikasi Todolist
-
-https://codepolitan.com/c/7QXZDET/  * kelas NodeJS Unit Test
-
-https://codepolitan.com/c/ALQTVEW/   * PHP OOP
-
-https://codepolitan.com/c/4REZAVE/   * PHP Unit Test
-
-https://codepolitan.com/c/OXVR79P/   *  PHP MVC
-
-https://codepolitan.com/c/ZIWXCK8/   *  PHP Logging
-
-https://codepolitan.com/c/C5KYPCW/   * Objek di PHP
-
-https://codepolitan.com/c/UYJCXBU/ *  JavaScript DOM
-
-https://codepolitan.com/c/VUXC2BH/ * JavaScript  Todolist
-
-https://codepolitan.com/c/GX4NVDB/ * JavaScript Async
-
-https://codepolitan.com/c/DZS6BH9/ * Node.js dan NPM
-
-https://codepolitan.com/c/EVLCBDJ/ * GIT Dasar
-
-
-https://codingstudio.id/certificate/75B5656711-77DF6BD742-75A97A1914/ * Fundamental Penetration Testing
-
-https://codingstudio.id/certificate/75B5656711-75B5932CAC-75A97A1914/ * Fundamental Front-End Web
-
-https://codingstudio.id/certificate/75B5656711-75B5660227-75A97A1914/ * Excel Advanced
-
-https://codingstudio.id/certificate/75B5656711-75B5569B2C-75A97A1914/ * Excel Intermediate
-
-https://codingstudio.id/certificate/75B5656711-75B5481988-75A97A1914/ * Fundamental Cyber Security
-
-https://codingstudio.id/certificate/75B5656711-75B547CEE6-75A97A1914/ * Ms PowerPoint 
-
-https://codingstudio.id/certificate/75B5656711-75B54732AC-75A97A1914/ * Fundamental Command Linux
-
-https://codingstudio.id/certificate/75B5656711-75B5470879-75A97A1914/ * Ms Word 
-
-https://codingstudio.id/certificate/75B5656711-75B5381712-75A97A1914/ * Fundamental Python
-
-https://codingstudio.id/certificate/75B5656711-75B5381454-75A97A1914/ * Fundamental Java
-
-https://codingstudio.id/certificate/75B5656711-75B537ED4A-75A97A1914/ * Fundamental Algoritma
-
-https://codingstudio.id/certificate/75B5656711-75B51A557E-75A97A1914/ * Fundamental Jaringan Komputer
+Nilai 5863 dengan 208 sertifikat, untuk broKoding menghilang beberapa lama tahu tahu muncul dengan nilai
+26.664 menduduki posisi 1 dengan sertifikat berapa banyak iya ? perlu dipertanyakan kebenaran nilai tersebut
+asalnya dari mana dan ijazah yang dimiliki berapa banyak (perkiraan kasar +/- 800) ???
 
 https://www.udemy.com/certificate/UC-9cd727d3-5261-44c8-848b-733da86cb592/ * Laravel
 

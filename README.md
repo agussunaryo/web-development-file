@@ -109,7 +109,7 @@ https://www.udemy.com/certificate/UC-d391ce89-6e9c-455a-9e5a-a7e18bfca50f/ * Pyt
 
 https://www.udemy.com/certificate/UC-86847670-58b0-4186-ae08-e7fbe4f5f3a2/ * Python BootCamp
 
-https://codepen.io/ , https://codepen.io/carterfromsl/pen/QWZXbqB
+https://codepen.io/agsun_grace/pen/ZEdbzBK
 
 https://www.youtube.com/@sandhikagalihWPU ;
 https://www.youtube.com/watch?v=LkR-9Z1sle8

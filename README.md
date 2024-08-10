@@ -49,7 +49,7 @@ website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek 
 https://codepolitan.com/leaderboard/ 
 ***********************************
 VETERAN I 3619 POINTS   **28/07/2023 09:59AM**
-----------------------------------------------
+
 LEGEND  I 5863 POINTS   **08/08/2024 16:53PM**
 **********************************************
 

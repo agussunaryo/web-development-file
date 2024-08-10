@@ -50,16 +50,12 @@ https://codepolitan.com/leaderboard/
 ***********************************
 VETERAN I 3619 POINTS   **28/07/2023 09:59AM**
 
-LEGEND  I 5863 POINTS   **08/08/2024 16:53PM**
+LEGEND  I 5863 POINTS   **08/08/2024 16:53PM**   dengan 208 Sertifikat
 **********************************************
 
+Belajar di coding studio mendapat 21 sertifikat
 
-https://www.udemy.com/certificate/UC-9cd727d3-5261-44c8-848b-733da86cb592/ * Laravel
-
-https://www.udemy.com/certificate/UC-d391ce89-6e9c-455a-9e5a-a7e18bfca50f/ * Python Network Programming
-
-https://www.udemy.com/certificate/UC-86847670-58b0-4186-ae08-e7fbe4f5f3a2/ * Python BootCamp
-
+Belajar di Udemy sudah mendapat 25 sertifikat
 https://codepen.io/agsun_grace/pen/ZEdbzBK
 
 https://www.youtube.com/@sandhikagalihWPU ;

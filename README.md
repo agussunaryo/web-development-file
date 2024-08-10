@@ -55,7 +55,12 @@ LEGEND  I 5863 POINTS   **08/08/2024 16:53PM**   dengan 208 Sertifikat
 
 Belajar di coding studio mendapat 21 sertifikat
 
-Belajar di Udemy sudah mendapat 25 sertifikat
+Link sertifikat sekarang sudah tidak bisa diakses, masih ada sertikat pdf yang diupload, namun sekarang kalau dilihat
+
+mendapat pesan  Error rendering embedded code  Invalid PDF
+
+Belajar di Udemy sudah mendapat 25 sertifikat silahkan lihat di codepen:
+
 https://codepen.io/agsun_grace/pen/ZEdbzBK
 
 https://www.youtube.com/@sandhikagalihWPU ;

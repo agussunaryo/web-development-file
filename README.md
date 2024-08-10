@@ -49,11 +49,10 @@ website https://www.w3schools.com/  sangat berjasa memberikan teori dan praktek 
 https://codepolitan.com/leaderboard/ 
 ***********************************
 VETERAN I 3619 POINTS   **28/07/2023 09:59AM**
+----------------------------------------------
 LEGEND  I 5863 POINTS   **08/08/2024 16:53PM**
 **********************************************
-Nilai 5863 dengan 208 sertifikat, untuk broKoding menghilang beberapa lama tahu tahu muncul dengan nilai
-26.664 menduduki posisi 1 dengan sertifikat berapa banyak iya ? perlu dipertanyakan kebenaran nilai tersebut
-asalnya dari mana dan ijazah yang dimiliki berapa banyak (perkiraan kasar +/- 800) ???
+
 
 https://www.udemy.com/certificate/UC-9cd727d3-5261-44c8-848b-733da86cb592/ * Laravel
 

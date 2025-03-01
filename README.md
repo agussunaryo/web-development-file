@@ -57,7 +57,9 @@ Belajar di coding studio mendapat 21 sertifikat
 
 Link sertifikat sekarang sudah tidak bisa diakses, masih ada sertikat pdf yang diupload, namun sekarang kalau dilihat
 
-mendapat pesan  Error rendering embedded code  Invalid PDF
+mendapat pesan  Error rendering embedded code  Invalid PDF bila dilihat memakai windows 7 jadi harus memakai windows 10 keatas
+
+baru dapat dilihat secara normal.
 
 Belajar di Udemy sudah mendapat 60 sertifikat silahkan lihat di codepen:
 

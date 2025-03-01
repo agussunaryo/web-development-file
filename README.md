@@ -65,6 +65,8 @@ https://codepen.io/agsun_grace/pen/ZEdbzBK
 
 https://codepen.io/agsun_grace/pen/WNqYgOZ
 
+Belajar komputer dari Youtube di link dibawah ini dan ditempat lain melalui pencarian dari google
+
 https://www.youtube.com/@sandhikagalihWPU ;
 https://www.youtube.com/watch?v=LkR-9Z1sle8
 
